@@ -8,7 +8,7 @@ javac WindowFrame.java
 ```shell
 java WindowFrame
 ```
-<img src="https://cdn.discordapp.com/attachments/905074139327516691/917692544643657728/unknown.png">
+<img src="flowtime.webp">
 
 - One can have upto 20 pending tasks at once
 - The default timer is set to 25 mins per task, which can be changed using the `settings option`
